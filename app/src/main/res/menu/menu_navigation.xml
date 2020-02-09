@@ -13,6 +13,10 @@
         android:id="@+id/homeSearch"
         android:icon="@drawable/ic_search_white"
         android:title="Search" />
+    <item
+        android:id="@+id/homeAccount"
+        android:icon="@drawable/ic_account_circle_white"
+        android:title="Account"/>
 
 
 </menu>
